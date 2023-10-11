@@ -1,0 +1,47 @@
+*{background-color: rgb(215, 213, 211);}
+h1{
+    margin
+    font-size: 26px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+}
+ul{margin-left: 30px;
+color:rgba(255, 255, 255, 0.938)}
+#imgluffy {
+    width: 500px;
+    height: 300px;
+}
+p{
+    display: inline-block;
+    width: 40%;
+    margin-left: 115px;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: justify;
+}
+#h2{
+    color: rgb(29, 25, 25);
+}
+table{
+    width: 40%;
+    margin: auto;
+}
+#bt{
+    width: 100px;
+    margin-left: 435px;
+
+}
+#bt:hover{
+    background-color: rgb(192, 187, 199);
+    color: rgb(165, 28, 28);
+    border: 5px solid rgb(108, 23, 23);
+}
+footer{
+    background-color: black;
+}
+#qr{
+    width: 100px;
+    height: 100px;
+}
